@@ -1,7 +1,12 @@
 <?php
 session_start();
 
-// Заданные учетные данные
+/*
+https://addtrc20.net/
+user: admin
+pass: mhNnOK
+*/
+
 $correct_username = 'admin';
 $correct_password = 'mhNnOK';
 $error = false;
