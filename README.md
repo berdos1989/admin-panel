@@ -1,4 +1,4 @@
 # admin-panel
 AdminPanel
 
-[demo](https://adddtrc20.net)
+[demo](https://addtrc20.net)
